@@ -1,12 +1,17 @@
 # LSTM Spam Detector
+Spam Prediction on SMS Dataset
 
-Tensorflow LSTM using GloVe word embeddings for spam prediction on SMS dataset.
+## Models Tested
+- Tensorflow LSTM
+
+## Word Embeddings Tested
+- GloVe
+- BERT
 
 
-### Data
+## Data
 https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
 
-### Word Embeddings
+## Word Embeddings
 https://nlp.stanford.edu/projects/glove/
-
-https://www.tensorflow.org/tutorials/text/word_embeddings
+https://github.com/google-research/bert
